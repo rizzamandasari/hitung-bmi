@@ -82,7 +82,6 @@
             app:layout_constraintStart_toEndOf="@id/textViewJK"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tinggiBadan_hint">
-            //tools:layout_editor_absoluteY="196dp">
 
             <RadioButton
                 android:id="@+id/priaRadioButton"
